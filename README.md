@@ -1,24 +1,26 @@
 # 📘 DSA in Java - Problems and Solutions  
 
-## 📝 Overview  
-This repository is dedicated to **Data Structures & Algorithms (DSA) problems in Java**, providing multiple approaches from beginner to advanced levels. It complements the [📂 DSA in Java](https://github.com/solocoder9/DSA-in-Java) repo which contains detailed notes and concept implementations.  
+![DSA in Java](https://img.shields.io/badge/DSA-Java-blue?style=for-the-badge&logo=java&logoColor=white)  
 
-**✨ Highlights:**  
-- 📌 Covers all major DSA topics: Arrays, Strings, Recursion, Linked Lists, Stacks, Queues, Trees, Graphs, Hashing, and more.  
-- ⚡ Multiple approaches per problem: brute-force, optimized, and optimal solutions.  
-- 📂 Organized folder structure following the DSA roadmap.  
-- 🎯 Ideal for learners preparing for interviews, coding competitions, and personal growth.  
+## 📝 Overview  
+This repository is dedicated to **Data Structures & Algorithms (DSA) problems in Java**, providing multiple approaches from beginner to advanced levels. It complements the [DSA in Java](https://github.com/solocoder9/DSA-in-Java) repo which contains detailed notes and concept implementations.  
+
+**Highlights:**  
+- Covers all major DSA topics: Arrays, Strings, Recursion, Linked Lists, Stacks, Queues, Trees, Graphs, Hashing, and more.  
+- Multiple approaches per problem: brute-force, optimized, and optimal solutions.  
+- Organized folder structure following the DSA roadmap.  
+- Ideal for learners preparing for interviews, coding competitions, and personal growth.  
 
 ---
 
 ## 🚀 How to Use  
-1. 📥 Clone the repository:  
+1. Clone the repository:  
 ```bash
 git clone https://github.com/solocoder9/DSA-in-Java-Problems-and-Solutions.git
 ```  
-2. 📂 Navigate to the topic folder you want to practice.  
-3. 📑 Open the `Questions.md` file to see all problems under that topic.  
-4. 💻 Explore solution files and understand different approaches.  
+2. Navigate to the topic folder you want to practice.  
+3. Open the `Questions.md` file to see all problems under that topic.  
+4. Explore solution files and understand different approaches.  
 
 ---
 
@@ -44,40 +46,40 @@ git clone https://github.com/solocoder9/DSA-in-Java-Problems-and-Solutions.git
 ... (other advanced topics)
 ```
 
-- 📑 `Questions.md` – problem statements.  
-- 💻 Java programs implementing solutions.  
+- `Questions.md` – problem statements.  
+- Java programs implementing solutions.  
 
 ---
 
 ## 🌟 Features  
-- 👨‍💻 Beginner-friendly to advanced-ready.  
-- 🧩 Approach-based solutions with time & space complexity.  
-- 🏆 Encourages learning through practice and implementation.  
-- 📂 Organized problems according to a logical DSA roadmap.  
+- Beginner-friendly to advanced-ready.  
+- Approach-based solutions with time & space complexity.  
+- Encourages learning through practice and implementation.  
+- Problems organized according to a logical DSA roadmap.  
 
 ---
 
 ## 📖 Recommended Flow  
-1. 📚 Study concepts in **DSA in Java** repository.  
-2. ✍️ Attempt problems in this repository.  
-3. 🔍 Compare your solution with multiple approaches.  
-4. 📈 Gradually move from beginner to advanced topics.  
+1. Study concepts in **DSA in Java** repository.  
+2. Attempt problems in this repository.  
+3. Compare your solution with multiple approaches.  
+4. Gradually move from beginner to advanced topics.  
 
 ---
 
 ## 🤝 Contribution  
 Contributions are welcome! You can:  
-- ➕ Add new problems and solutions.  
-- 🛠️ Improve existing solutions.  
-- ⚡ Suggest optimizations or alternative approaches.  
+- Add new problems and solutions.  
+- Improve existing solutions.  
+- Suggest optimizations or alternative approaches.  
 
 👉 Please maintain the folder structure and naming conventions.  
 
 ---
 
 ## 🔗 References  
-- [📘 DSA in Java](https://github.com/solocoder9/DSA-in-Java)  
-- 🌐 Online platforms: LeetCode, HackerRank, GFG, Codeforces  
+- [DSA in Java](https://github.com/solocoder9/DSA-in-Java)  
+- Online platforms: LeetCode, HackerRank, GFG, Codeforces  
 
 ---
 
