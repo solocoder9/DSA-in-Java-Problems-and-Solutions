@@ -1,7 +1,8 @@
 # 📘 DSA in Java - Problems and Solutions  
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-ED3F27?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA-ED3F27?style=for-the-badge&logo=algorithmia&logoColor=white)
+![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-ED3F27?style=for-the-badge)
 ![Arrays](https://img.shields.io/badge/Arrays-blue?style=for-the-badge)
 ![Strings](https://img.shields.io/badge/Strings-green?style=for-the-badge)
 ![Recursion](https://img.shields.io/badge/Recursion-orange?style=for-the-badge)
