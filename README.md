@@ -1,7 +1,7 @@
 # DSA in Java - Problems and Solutions
 
 ## Overview
-This repository is dedicated to **Data Structures & Algorithms (DSA) problems in Java**, providing multiple approaches from beginner to advanced levels. It complements the "DSA in Java" repo which contains detailed notes and concept implementations.
+This repository is dedicated to **Data Structures & Algorithms (DSA) problems in Java**, providing multiple approaches from beginner to advanced levels. It complements the ["DSA in Java"](https://github.com/solocoder9/DSA-in-Java) repo which contains detailed notes and concept implementations.
 
 **Highlights:**
 - Covers all major DSA topics: Arrays, Strings, Recursion, Linked Lists, Stacks, Queues, Trees, Graphs, Hashing, and more.
@@ -76,7 +76,7 @@ Please maintain the folder structure and naming conventions.
 ---
 
 ## References
-- [DSA in Java Notes & Concepts](https://github.com/solocoder9/DSA-in-Java)
+- [DSA in Java](https://github.com/solocoder9/DSA-in-Java)
 - Online platforms: LeetCode, HackerRank, GFG, Codeforces
 
 ---
