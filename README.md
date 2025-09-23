@@ -1,18 +1,18 @@
 # 📘 DSA in Java - Problems and Solutions  
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black)
 ![DSA](https://img.shields.io/badge/DSA-ED3F27?style=for-the-badge&logo=algorithmia&logoColor=white)
-![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-ED3F27?style=for-the-badge)
-![Arrays](https://img.shields.io/badge/Arrays-blue?style=for-the-badge)
-![Strings](https://img.shields.io/badge/Strings-green?style=for-the-badge)
-![Recursion](https://img.shields.io/badge/Recursion-orange?style=for-the-badge)
-![LinkedLists](https://img.shields.io/badge/Linked%20Lists-teal?style=for-the-badge)
-![Stacks](https://img.shields.io/badge/Stacks-cyan?style=for-the-badge)
-![Queues](https://img.shields.io/badge/Queues-blueviolet?style=for-the-badge)
-![Trees](https://img.shields.io/badge/Trees-forestgreen?style=for-the-badge)
-![Graphs](https://img.shields.io/badge/Graphs-red?style=for-the-badge)
-![Hashing](https://img.shields.io/badge/Hashing-darkorange?style=for-the-badge)
-![DynamicProgramming](https://img.shields.io/badge/Dynamic%20Programming-purple?style=for-the-badge)
+![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-007ACC?style=for-the-badge)
+![Arrays](https://img.shields.io/badge/Arrays-1E90FF?style=for-the-badge)
+![Strings](https://img.shields.io/badge/Strings-32CD32?style=for-the-badge)
+![Recursion](https://img.shields.io/badge/Recursion-FF8C00?style=for-the-badge)
+![LinkedLists](https://img.shields.io/badge/Linked%20Lists-20B2AA?style=for-the-badge)
+![Stacks](https://img.shields.io/badge/Stacks-00CED1?style=for-the-badge)
+![Queues](https://img.shields.io/badge/Queues-8A2BE2?style=for-the-badge)
+![Trees](https://img.shields.io/badge/Trees-228B22?style=for-the-badge)
+![Graphs](https://img.shields.io/badge/Graphs-DC143C?style=for-the-badge)
+![Hashing](https://img.shields.io/badge/Hashing-FF4500?style=for-the-badge)
+![DynamicProgramming](https://img.shields.io/badge/Dynamic%20Programming-800080?style=for-the-badge)
 
 
 ## 📝 Overview  
