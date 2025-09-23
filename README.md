@@ -1,6 +1,15 @@
 # 📘 DSA in Java - Problems and Solutions  
 
 ![DSA in Java](https://img.shields.io/badge/DSA-Java-blue?style=for-the-badge&logo=java&logoColor=white)  
+![Recursion](https://img.shields.io/badge/Recursion-orange?style=for-the-badge)
+![LinkedLists](https://img.shields.io/badge/Linked%20Lists-teal?style=for-the-badge)
+![Stacks](https://img.shields.io/badge/Stacks-cyan?style=for-the-badge)
+![Queues](https://img.shields.io/badge/Queues-blueviolet?style=for-the-badge)
+![Trees](https://img.shields.io/badge/Trees-forestgreen?style=for-the-badge)
+![Graphs](https://img.shields.io/badge/Graphs-red?style=for-the-badge)
+![Hashing](https://img.shields.io/badge/Hashing-darkorange?style=for-the-badge)
+![DynamicProgramming](https://img.shields.io/badge/Dynamic%20Programming-purple?style=for-the-badge)
+
 
 ## 📝 Overview  
 This repository is dedicated to **Data Structures & Algorithms (DSA) problems in Java**, providing multiple approaches from beginner to advanced levels. It complements the [DSA in Java](https://github.com/solocoder9/DSA-in-Java) repo which contains detailed notes and concept implementations.  
