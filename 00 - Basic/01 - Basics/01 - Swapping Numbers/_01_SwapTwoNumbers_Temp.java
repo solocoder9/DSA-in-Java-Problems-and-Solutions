@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class _01_SwapTwoNumbersUsingTemp {
+public class _01_SwapTwoNumbers_Temp {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 

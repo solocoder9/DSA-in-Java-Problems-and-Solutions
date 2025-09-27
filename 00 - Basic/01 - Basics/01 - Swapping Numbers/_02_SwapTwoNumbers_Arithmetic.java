@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class _02_SwapTwoNumbersUsingArithmetic {
+public class _02_SwapTwoNumbers_Arithmetic {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 
