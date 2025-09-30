@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class _01_EvenOrOddUsingModulo {
+public class _01_EvenOrOdd_Modulo {
 	// Method to check whether the number is even or odd, using modulo operator
 	public static boolean isEven(int n) {
 		return n % 2 == 0;

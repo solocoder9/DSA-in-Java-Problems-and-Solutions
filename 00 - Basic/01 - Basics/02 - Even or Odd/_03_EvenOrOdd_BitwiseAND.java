@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
-public class _02_EvenOrOddUsingArithmetic {
-	// Method to check whether the number is even or odd, using division & multiplication
+public class _03_EvenOrOdd_BitwiseAND {
+	// Method to check whether the number is even or odd, using Bitwise AND (&) Operator
 	public static boolean isEven(int n) {
-		return (n / 2) * 2 == n;
+		return (n & 1) == 0;
 	}
 
 	// Driver code 
